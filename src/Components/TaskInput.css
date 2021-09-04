@@ -1,0 +1,50 @@
+.form {
+    border: 0;
+    margin: 0;
+    width: 100%;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.title, .time {
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+
+
+.title label, .time label {
+   padding-right: 1rem;
+   align-content: center;
+}
+
+.title input {
+    height: 1.5rem;
+    width: 80%;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.time input {
+    height: 1.5rem;
+    width: 10%;
+    font-size: 1rem;
+    text-align: center;
+    
+ }
+
+.buttons {
+    margin: 1rem;
+    display: flex;
+    width: 50%;
+}
+
+.buttons button {
+    font: inherit;
+    padding: 3% 12%;
+    border: 1px solid #8b005d;
+    color: white;
+    background: #8b005d;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.26);
+    cursor: pointer;
+    margin: 1rem;
+}

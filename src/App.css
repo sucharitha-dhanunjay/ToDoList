@@ -1,0 +1,23 @@
+.app {
+    /*margin: 2rem;*/
+
+}
+.noitems {
+    font-size: 1.2rem;
+    padding: 2rem;
+    margin-left: 2.5rem;
+}
+
+.button {
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    border: 1px solid #8b005d;
+    color: white;
+    background: #8b005d;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.26);
+    cursor: pointer;
+    margin-top: 2rem;
+    margin-left: 4.5rem;
+
+}
+

@@ -1,0 +1,36 @@
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    padding: 1rem;
+    background: green;
+    margin: 2rem;
+    font-size: 1.5rem;
+    color: white;
+}
+
+/*.invalidfont {
+    color: red;
+}*/
+
+.invalidcard {
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    padding: 1rem;
+    background: red;
+    margin: 2rem;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.title {
+    font-size: 10rem;
+    font-weight: bold;
+    font-family: Arial;
+
+}
+
+.content {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    font-family: Arial;
+}
